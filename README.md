@@ -1,2 +1,2 @@
-# Pi-calculation
-rookie's first programming exrecise
+# rookie brochure
+Record practice content 
